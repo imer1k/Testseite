@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Company Courses Dashboard – Vorschau</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body>
+  <div class="preview-banner">Vorschau-Ansicht · Demo-Daten · Keine Anlageberatung</div>
+  <header class="header">
+    <div class="header__intro">
+      <span class="eyebrow">Company Courses Dashboard</span>
+      <h1>Aktienkurse &amp; Forecasts im Überblick</h1>
+      <p>
+        Performance der letzten Tage, Trends und ein vereinfachter Forecast zur Orientierung.
+      </p>
+    </div>
+    <div class="header__actions">
+      <div class="search">
+        <input id="searchInput" type="search" placeholder="Unternehmen oder Symbol suchen" />
+      </div>
+      <div class="filters">
+        <label for="rangeSelect">Zeitraum</label>
+        <select id="rangeSelect">
+          <option value="7">7 Tage</option>
+          <option value="14">14 Tage</option>
+          <option value="30" selected>30 Tage</option>
+        </select>
+      </div>
+      <div class="filters">
+        <label for="sortSelect">Sortierung</label>
+        <select id="sortSelect">
+          <option value="performance" selected>Performance</option>
+          <option value="name">Name</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary">
+      <div>
+        <h2>Markt-Highlights</h2>
+        <p id="lastUpdated">Daten werden geladen…</p>
+      </div>
+      <div class="disclaimer">
+        Forecast = rein statistisch &amp; Demo-Zweck, keine Anlageberatung.
+      </div>
+    </section>
+
+    <section id="cardsGrid" class="cards" aria-live="polite"></section>
+
+    <section id="emptyState" class="empty" hidden>
+      <h3>Keine Daten gefunden</h3>
+      <p>Bitte Filter anpassen oder Datenupdate abwarten.</p>
+    </section>
+  </main>
+
+  <div id="detailModal" class="modal" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="modal__content" role="document">
+      <button class="modal__close" id="closeModal" aria-label="Details schließen">×</button>
+      <div class="modal__header">
+        <div>
+          <h2 id="modalTitle">Unternehmen</h2>
+          <p id="modalSubTitle">Symbol</p>
+        </div>
+        <div class="modal__badge" id="modalPerformance">0%</div>
+      </div>
+
+      <div class="modal__chart">
+        <canvas id="detailChart" height="120"></canvas>
+      </div>
+
+      <div class="modal__grid">
+        <div class="modal__panel">
+          <h3>Forecast</h3>
+          <p id="forecastSummary">—</p>
+          <p class="muted">Forecast basiert auf linearer Regression der letzten 30 Tage.</p>
+          <p class="muted">Unsicherheitsband = Volatilität der täglichen Renditen.</p>
+        </div>
+        <div class="modal__panel">
+          <h3>Letzte 10 Tage</h3>
+          <div class="table-wrapper">
+            <table>
+              <thead>
+                <tr>
+                  <th>Datum</th>
+                  <th>Close</th>
+                  <th>Tagesänderung</th>
+                </tr>
+              </thead>
+              <tbody id="recentTable"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
