@@ -1,0 +1,75 @@
+{
+  "lastUpdated": "2026-02-06T00:22:28.489Z",
+  "symbols": {
+    "aapl.us": {
+      "latestClose": 102.68,
+      "latestDate": "2026-02-05",
+      "performance_7d": 1.7338749628455365,
+      "performance_14d": 1.3222814288533682,
+      "performance_30d": -1.4587332053742763
+    },
+    "msft.us": {
+      "latestClose": 141.76,
+      "latestDate": "2026-02-05",
+      "performance_7d": 2.095786820309684,
+      "performance_14d": 3.4216093966586403,
+      "performance_30d": 4.388807069219425
+    },
+    "goog.us": {
+      "latestClose": 161.89,
+      "latestDate": "2026-02-05",
+      "performance_7d": 0.5777833001987938,
+      "performance_14d": 1.3395931142409931,
+      "performance_30d": 3.4044455799693307
+    },
+    "amzn.us": {
+      "latestClose": 200.97,
+      "latestDate": "2026-02-05",
+      "performance_7d": 0.41470970320776085,
+      "performance_14d": 1.4026943841768007,
+      "performance_30d": 2.0825925737796487
+    },
+    "nvda.us": {
+      "latestClose": 223.46,
+      "latestDate": "2026-02-05",
+      "performance_7d": -0.4233322935698002,
+      "performance_14d": 0.14789584547125553,
+      "performance_30d": 0.8575555154360018
+    },
+    "tsla.us": {
+      "latestClose": 254.4,
+      "latestDate": "2026-02-05",
+      "performance_7d": 0.9804310721232082,
+      "performance_14d": 1.08475384431995,
+      "performance_30d": 1.5568862275449125
+    },
+    "meta.us": {
+      "latestClose": 286.82,
+      "latestDate": "2026-02-05",
+      "performance_7d": -0.1218790263607002,
+      "performance_14d": -0.7577592470848752,
+      "performance_30d": 0.5362964001542194
+    },
+    "sap.de": {
+      "latestClose": 322.75,
+      "latestDate": "2026-02-05",
+      "performance_7d": -0.47181448131243764,
+      "performance_14d": 0.47318120972511335,
+      "performance_30d": 1.9425142135186282
+    },
+    "sie.de": {
+      "latestClose": 351.41,
+      "latestDate": "2026-02-05",
+      "performance_7d": 0.8581596923253569,
+      "performance_14d": 0.6847745114893253,
+      "performance_30d": 1.4873216658002757
+    },
+    "alv.de": {
+      "latestClose": 388.44,
+      "latestDate": "2026-02-05",
+      "performance_7d": 0.8097165991902846,
+      "performance_14d": 1.3119115307373235,
+      "performance_30d": 2.596339240907526
+    }
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Apple",
+    "symbol": "aapl.us",
+    "domain": "apple.com"
+  },
+  {
+    "name": "Microsoft",
+    "symbol": "msft.us",
+    "domain": "microsoft.com"
+  },
+  {
+    "name": "Alphabet",
+    "symbol": "goog.us",
+    "domain": "abc.xyz"
+  },
+  {
+    "name": "Amazon",
+    "symbol": "amzn.us",
+    "domain": "amazon.com"
+  },
+  {
+    "name": "NVIDIA",
+    "symbol": "nvda.us",
+    "domain": "nvidia.com"
+  },
+  {
+    "name": "Tesla",
+    "symbol": "tsla.us",
+    "domain": "tesla.com"
+  },
+  {
+    "name": "Meta",
+    "symbol": "meta.us",
+    "domain": "meta.com"
+  },
+  {
+    "name": "SAP",
+    "symbol": "sap.de",
+    "domain": "sap.com"
+  },
+  {
+    "name": "Siemens",
+    "symbol": "sie.de",
+    "domain": "siemens.com"
+  },
+  {
+    "name": "Allianz",
+    "symbol": "alv.de",
+    "domain": "allianz.com"
+  }
+]
