@@ -1,75 +1,75 @@
 {
-  "lastUpdated": "2026-02-06T00:22:28.489Z",
+  "lastUpdated": "2026-02-07T06:42:28.884Z",
   "symbols": {
     "aapl.us": {
-      "latestClose": 102.68,
-      "latestDate": "2026-02-05",
-      "performance_7d": 1.7338749628455365,
-      "performance_14d": 1.3222814288533682,
-      "performance_30d": -1.4587332053742763
+      "latestClose": 278.12,
+      "latestDate": "2026-02-06",
+      "performance_7d": 8.454219310559978,
+      "performance_14d": 8.840449262317538,
+      "performance_30d": 2.1148479953003343
     },
     "msft.us": {
-      "latestClose": 141.76,
-      "latestDate": "2026-02-05",
-      "performance_7d": 2.095786820309684,
-      "performance_14d": 3.4216093966586403,
-      "performance_30d": 4.388807069219425
+      "latestClose": 401.14,
+      "latestDate": "2026-02-06",
+      "performance_7d": -16.711998837281733,
+      "performance_14d": -12.769103640238338,
+      "performance_30d": -17.605011810619295
     },
     "goog.us": {
-      "latestClose": 161.89,
-      "latestDate": "2026-02-05",
-      "performance_7d": 0.5777833001987938,
-      "performance_14d": 1.3395931142409931,
-      "performance_30d": 3.4044455799693307
+      "latestClose": 323.1,
+      "latestDate": "2026-02-06",
+      "performance_7d": -3.9193529201855455,
+      "performance_14d": -2.1916812980565337,
+      "performance_30d": 2.3504815002534265
     },
     "amzn.us": {
-      "latestClose": 200.97,
-      "latestDate": "2026-02-05",
-      "performance_7d": 0.41470970320776085,
-      "performance_14d": 1.4026943841768007,
-      "performance_30d": 2.0825925737796487
+      "latestClose": 210.32,
+      "latestDate": "2026-02-06",
+      "performance_7d": -13.45212131188017,
+      "performance_14d": -12.044161927065913,
+      "performance_30d": -9.39950030154217
     },
     "nvda.us": {
-      "latestClose": 223.46,
-      "latestDate": "2026-02-05",
-      "performance_7d": -0.4233322935698002,
-      "performance_14d": 0.14789584547125553,
-      "performance_30d": 0.8575555154360018
+      "latestClose": 185.41,
+      "latestDate": "2026-02-06",
+      "performance_7d": -3.1902673350041844,
+      "performance_14d": -0.4403157386027994,
+      "performance_30d": -2.0083505100153327
     },
     "tsla.us": {
-      "latestClose": 254.4,
-      "latestDate": "2026-02-05",
-      "performance_7d": 0.9804310721232082,
-      "performance_14d": 1.08475384431995,
-      "performance_30d": 1.5568862275449125
+      "latestClose": 411.11,
+      "latestDate": "2026-02-06",
+      "performance_7d": -4.716543827933057,
+      "performance_14d": -6.031999999999997,
+      "performance_30d": -15.332811598978497
     },
     "meta.us": {
-      "latestClose": 286.82,
-      "latestDate": "2026-02-05",
-      "performance_7d": -0.1218790263607002,
-      "performance_14d": -0.7577592470848752,
-      "performance_30d": 0.5362964001542194
+      "latestClose": 661.46,
+      "latestDate": "2026-02-06",
+      "performance_7d": -1.0871353161963695,
+      "performance_14d": 6.644095122934307,
+      "performance_30d": -0.52335549072097
     },
     "sap.de": {
-      "latestClose": 322.75,
-      "latestDate": "2026-02-05",
-      "performance_7d": -0.47181448131243764,
-      "performance_14d": 0.47318120972511335,
-      "performance_30d": 1.9425142135186282
+      "latestClose": 171.22,
+      "latestDate": "2026-02-06",
+      "performance_7d": -12.705210563882934,
+      "performance_14d": -12.625025515411311,
+      "performance_30d": -17.998084291187745
     },
     "sie.de": {
-      "latestClose": 351.41,
-      "latestDate": "2026-02-05",
-      "performance_7d": 0.8581596923253569,
-      "performance_14d": 0.6847745114893253,
-      "performance_30d": 1.4873216658002757
+      "latestClose": 250.5,
+      "latestDate": "2026-02-06",
+      "performance_7d": -0.15942606616181973,
+      "performance_14d": -2.1484375,
+      "performance_30d": 6.1440677966101696
     },
     "alv.de": {
-      "latestClose": 388.44,
-      "latestDate": "2026-02-05",
-      "performance_7d": 0.8097165991902846,
-      "performance_14d": 1.3119115307373235,
-      "performance_30d": 2.596339240907526
+      "latestClose": 387.2,
+      "latestDate": "2026-02-06",
+      "performance_7d": 5.245990758358253,
+      "performance_14d": 2.0827840759293377,
+      "performance_30d": -0.5905006418485267
     }
   }
 }
