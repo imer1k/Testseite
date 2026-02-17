@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T07:04:07.675Z",
+  "lastUpdated": "2026-02-17T06:59:59.477Z",
   "symbols": {
     "aapl.us": {
       "latestClose": 255.78,
@@ -51,25 +51,25 @@
       "performance_30d": -3.0783681013195245
     },
     "sap.de": {
-      "latestClose": 171.72,
-      "latestDate": "2026-02-13",
-      "performance_7d": 2.703349282296657,
-      "performance_14d": -14.545906942025374,
-      "performance_30d": -14.96905174548155
+      "latestClose": 168.36,
+      "latestDate": "2026-02-16",
+      "performance_7d": -1.24354763022054,
+      "performance_14d": -13.899528994215975,
+      "performance_30d": -18.351115421920454
     },
     "sie.de": {
-      "latestClose": 251.05,
-      "latestDate": "2026-02-13",
-      "performance_7d": 3.7396694214876085,
-      "performance_14d": -1.3749754468670201,
-      "performance_30d": 4.126918291165499
+      "latestClose": 234.95,
+      "latestDate": "2026-02-16",
+      "performance_7d": -3.905930470347653,
+      "performance_14d": -7.280978689818475,
+      "performance_30d": -3.9452166802943602
     },
     "alv.de": {
-      "latestClose": 366.9,
-      "latestDate": "2026-02-13",
-      "performance_7d": -5.291688177594218,
-      "performance_14d": 0.41050903119868637,
-      "performance_30d": -5.364972917204027
+      "latestClose": 369.2,
+      "latestDate": "2026-02-16",
+      "performance_7d": -3.8541666666666696,
+      "performance_14d": 1.0676156583629832,
+      "performance_30d": -5.984211866564808
     }
   }
 }
