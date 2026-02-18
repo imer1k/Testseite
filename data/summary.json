@@ -1,54 +1,54 @@
 {
-  "lastUpdated": "2026-02-17T06:59:59.477Z",
+  "lastUpdated": "2026-02-18T07:01:56.048Z",
   "symbols": {
     "aapl.us": {
-      "latestClose": 255.78,
-      "latestDate": "2026-02-13",
-      "performance_7d": -7.490325147383271,
-      "performance_14d": 0.14486511882855196,
-      "performance_30d": -5.914809092915475
+      "latestClose": 263.88,
+      "latestDate": "2026-02-17",
+      "performance_7d": -4.3601174295966185,
+      "performance_14d": 2.1721454292020033,
+      "performance_30d": -2.6308992288107436
     },
     "msft.us": {
-      "latestClose": 401.32,
-      "latestDate": "2026-02-13",
-      "performance_7d": -3.1072696105652007,
-      "performance_14d": -14.663604661052986,
-      "performance_30d": -17.017493073073904
+      "latestClose": 396.86,
+      "latestDate": "2026-02-17",
+      "performance_7d": 0.8103233672873214,
+      "performance_14d": -17.42061675475467,
+      "performance_30d": -16.086607180614873
     },
     "goog.us": {
-      "latestClose": 306.02,
-      "latestDate": "2026-02-13",
-      "performance_7d": -8.195836083278333,
-      "performance_14d": -8.26463623010282,
-      "performance_30d": -2.479286169534745
+      "latestClose": 302.82,
+      "latestDate": "2026-02-17",
+      "performance_7d": -8.604714333142184,
+      "performance_14d": -9.605970149253732,
+      "performance_30d": -3.964226817201573
     },
     "amzn.us": {
-      "latestClose": 198.79,
-      "latestDate": "2026-02-13",
-      "performance_7d": -14.678741576891719,
-      "performance_14d": -16.621927690629978,
-      "performance_30d": -13.876613811628111
+      "latestClose": 201.15,
+      "latestDate": "2026-02-17",
+      "performance_7d": -9.67263909470564,
+      "performance_14d": -17.790583619421284,
+      "performance_30d": -11.192052980132448
     },
     "nvda.us": {
-      "latestClose": 182.81,
-      "latestDate": "2026-02-13",
-      "performance_7d": 4.948619323726968,
-      "performance_14d": -1.9627822169786007,
-      "performance_30d": -1.9785522788203742
+      "latestClose": 184.97,
+      "latestDate": "2026-02-17",
+      "performance_7d": 7.6157784500814545,
+      "performance_14d": -1.883089327392325,
+      "performance_30d": -2.054540640720146
     },
     "tsla.us": {
-      "latestClose": 417.44,
-      "latestDate": "2026-02-13",
-      "performance_7d": 2.8152015960198042,
-      "performance_14d": -4.080882352941175,
-      "performance_30d": -7.177799519701153
+      "latestClose": 410.63,
+      "latestDate": "2026-02-17",
+      "performance_7d": 3.378565494322906,
+      "performance_14d": -4.704107681596654,
+      "performance_30d": -6.26383911247061
     },
     "meta.us": {
-      "latestClose": 639.77,
-      "latestDate": "2026-02-13",
-      "performance_7d": -4.367778292650119,
-      "performance_14d": -4.847105717175328,
-      "performance_30d": -3.0783681013195245
+      "latestClose": 639.29,
+      "latestDate": "2026-02-17",
+      "performance_7d": -4.613479357216406,
+      "performance_14d": -5.004680743569559,
+      "performance_30d": -1.7096908104118946
     },
     "sap.de": {
       "latestClose": 168.36,
